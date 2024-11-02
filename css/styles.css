@@ -35,12 +35,12 @@ body {
 .nav-logo:focus,
 .nav-logo:hover {
     font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    line-height: 1.17;
-    font-weight: bold;
-    letter-spacing: 0.03em;
+        font-size: 18px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #4d5ae5;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
 }
 
 .nav-menu {
@@ -135,7 +135,6 @@ ul {
 
 }
 .section-title {
- 
         font-weight: bold;
         font-size: 36px;
         line-height: 1.11;
