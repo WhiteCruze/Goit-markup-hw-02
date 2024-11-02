@@ -110,6 +110,7 @@ body {
 .footer-section .logo-part,
 .footer-section .footer-text {
     color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
 .team-list {
     background-color: #ffffff;
@@ -131,4 +132,16 @@ ul {
 .link:focus,
 .link:hover {
     color: #4d5ae5;
+
+}
+.section-title {
+ 
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 1.11;
+        text-transform: capitalize;
+        color: #2e2f42;
+        letter-spacing: 0.02em;
+        text-align: center;
+
 }
