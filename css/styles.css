@@ -8,14 +8,14 @@ body {
 .header-nav {
     background-color: #ffffff;
 }
-.nav-item {
+
+.nav-link {
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .logo-part {
     color: #2e2f42;
 }
@@ -42,6 +42,9 @@ body {
         line-height: 1.17;
         letter-spacing: 0.03em;
 }
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;}
 
 .nav-menu {
         font-size: 16px;
@@ -97,7 +100,7 @@ body {
 .page-title {
         font-weight: 700;
         font-size: 56px;
-        line-height: 107%;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color:#ffffff;
